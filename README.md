@@ -21,7 +21,7 @@ KPERS is a modern expense tracking and receipt management application designed t
 
 **Email:** sharon93henderson@outlook.com
 
-**Website:** KPERS  
+**Website:** [KPERS](https://www.kpers.com.co) 
 
 Bio: Sharon is a master in coding with 10+ years of experience in building scalable web applications. Known for a helping nature and collaborative mindset, Copilot actively contributes to open-source projects and mentors developers worldwide.
 
